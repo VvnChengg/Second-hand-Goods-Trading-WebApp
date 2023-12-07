@@ -22,7 +22,7 @@ Clone the repository to your local machine.
    `git clone https://github.com/VvnChengg/WebApp.git`
 
 2. Navigate to the project directory.
-   `cd 好市好事`
+   `cd Second-hand-Goods-Trading-WebApp`
 
 3. (Optional) Create and activate a virtual environment. It is recommended to use virtual environments to isolate project dependencies.
 
